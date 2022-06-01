@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.titulo{
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+    color: rgb(71, 67, 67);
+    
+}
